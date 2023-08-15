@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Toastify/static/css/main.0d4a2ff5.css",
+    "main.js": "/React_Toastify/static/js/main.ef9b495a.js",
+    "index.html": "/React_Toastify/index.html",
+    "main.0d4a2ff5.css.map": "/React_Toastify/static/css/main.0d4a2ff5.css.map",
+    "main.ef9b495a.js.map": "/React_Toastify/static/js/main.ef9b495a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4a2ff5.css",
+    "static/js/main.ef9b495a.js"
+  ]
+}
